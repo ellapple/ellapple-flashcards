@@ -1,0 +1,31 @@
+{
+    "Biology": [
+        {
+            "question": "What is ATP?",
+            "answer": "ATP is the cell's main energy currency.",
+            "correct": null
+        },
+        {
+            "question": "What is DNA?",
+            "answer": "DNA stores genetic information.",
+            "correct": null
+        },
+        {
+            "question": "What is RNA?",
+            "answer": "RNA helps use genetic information.",
+            "correct": null
+        }
+    ],
+    "DECA": [
+        {
+            "question": "What is SWOT?",
+            "answer": "A framework for analyzing strengths, weaknesses, opportunities, and threats.",
+            "correct": null
+        },
+        {
+            "question": "What is gross profit?",
+            "answer": "Revenue minus the cost of goods sold.",
+            "correct": null
+        }
+    ]
+}
